@@ -1,7 +1,9 @@
 # SC1015 W132 Group 2 Project: Analysis of Earthquake Characteristics and Predictive Factors for Magnitude
 
 ### Earthquake Data from Kaggle 
-https://www.kaggle.com/datasets/warcoder/earthquake-dataset Data is under CC0: Public Domain which allows our group to freely build upon, enhance and reuse the works for any purposes without restriction under copyright or database law.
+https://www.kaggle.com/datasets/warcoder/earthquake-dataset
+
+Data is under CC0: Public Domain which allows our group to freely build upon, enhance and reuse the works for any purposes without restriction under copyright or database law.
 
 ### Datasets info
 title: title name given to the earthquake.
