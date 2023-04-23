@@ -20,7 +20,7 @@ alert: The alert level - “green”, “yellow”, “orange”, and “red”
 
 tsunami: "1" for events in oceanic regions and "0" otherwise
 
-sig: A number describing how significant the event is. Larger numbers indicate a more significant event. This value is determined on a number of factors, including: magnitude, maximum MMI, felt reports, and estimated impact
+sig: A number describing how significant the event is. Larger numbers indicate a more significant event.
 
 latitude / longitude: coordinate system by means of which the position or location of any place on Earth's surface can be determined and described
 
