@@ -5,6 +5,9 @@ https://www.kaggle.com/datasets/warcoder/earthquake-dataset
 
 Data is under CC0: Public Domain which allows our group to freely build upon, enhance and reuse the works for any purposes without restriction under copyright or database law.
 
+Our data analysis mainly includes steps of data selection, visualization and multivariate modeling. In data selection, we remove some variables that are not related to earthquake magnitude and location, and keep only key data. In visualization and multivariate modeling, we divide the Richter magnitude into three categories and try to predict more accurate earthquake magnitude by DecisionTree, SVM, and Randomforest. Through these steps, we draw some conclusions about the correlation between seismic variables and earthquake magnitude and can infer the earthquake magnitude by considering factors such as earthquake damage index and latitude and longitude of the earthquake occurrence.
+
+Translated with www.DeepL.com/Translator (free version)
 ### Datasets info
 title: title name given to the earthquake.
 
